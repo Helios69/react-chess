@@ -1,13 +1,4 @@
-import { useEffect, useState } from "react";
 import Board from "./common/components/Board";
-import {
-  BoardCell,
-  Colors,
-  FigureInterface,
-  Figures,
-  initialFigurePositions,
-} from "./common/constants";
-import { createBoard } from "./common/utils";
 
 const App = () => {
   return (

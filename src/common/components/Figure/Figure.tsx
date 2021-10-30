@@ -1,4 +1,4 @@
-import { Colors, Figures } from "../../constants";
+import { Colors, Figures } from "../../types";
 import WhiteKing from "../../../assets/figures/white-king.png";
 import BlackKing from "../../../assets/figures/black-king.png";
 import WhiteQueen from "../../../assets/figures/white-queen.png";
